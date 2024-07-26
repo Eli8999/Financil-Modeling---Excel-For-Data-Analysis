@@ -1,0 +1,36 @@
+### GitHub Report for Sales_Bike.xlsx
+
+#### Overview
+The `Sales_Bike.xlsx` workbook contains four sheets: **Sales**, **Working Sheet**, **Pivot Table**, and **Dashboard**. Each sheet provides unique insights and data representations related to bike sales.
+
+#### Sheet Details
+
+1. **Sales**
+   - **Contents**: This sheet records individual sales transactions.
+   - **Columns**: 
+     - Date, Day, Month, Year
+     - Customer_Age, Age_Group, Customer_Gender
+     - Country, State
+     - Product_Category, Sub_Category, Product
+     - Order_Quantity, Unit_Cost, Unit_Price
+     - Profit, Cost, Revenue
+   - **Example Row**: A sale on 2013-11-26 in British Columbia, Canada, for a Hitch Rack - 4-Bike product with 8 units sold, yielding a profit of 590.
+
+2. **Working Sheet**
+   - **Contents**: Intermediate calculations and additional data processing for analysis.
+   - **Columns**: Similar to the Sales sheet but includes intermediate calculations for fields like Sales.
+   - **Example Row**: Contains fields for profit and sales calculations.
+
+3. **Pivot Table**
+   - **Contents**: Aggregated sales data organized by year and country.
+   - **Columns**: 
+     - Row Labels (Years), Column Labels (Countries)
+     - Sum of Sales for each year and country.
+   - **Example Row**: Sales data for 2011, showing sales amounts across different countries like Australia, Canada, France, Germany, etc.
+
+4. **Dashboard**
+   - **Contents**: Presumably, visual representations and summaries of the data from the other sheets.
+   - **Columns**: Empty, likely used for storing visual elements and summaries.
+
+#### Summary
+The workbook provides a comprehensive view of bike sales data, from individual transactions to aggregated yearly sales across countries. The "Sales" and "Working Sheet" sheets focus on transactional and intermediate data, while the "Pivot Table" aggregates this data for analysis. The "Dashboard" is intended for visual summaries and presentations.
