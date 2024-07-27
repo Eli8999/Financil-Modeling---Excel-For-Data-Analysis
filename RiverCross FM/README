@@ -1,0 +1,87 @@
+Case Study Background:
+      •	The latest demographic analysis is indicating that Big City will continue to grow. Currently Big City congestion is costing $6B a year, which is anticipated to reach $10B a year by 2030 with no further investment
+      •	Big City is divided in half by the east-west running Big City River
+      •	The Big City Government is considering developing a new toll road to provide additional capacity for north and south vehicle movements across the river, called ‘RiverCross’
+      •	RiverCross will complement the two existing motorways catering for north and south vehicle movements across the river – the River Bridge & the River Tunnel
+      •	The Big City Government is currently working on producing the final business case for RiverCross, which will need to include a chapter ‘Funding and Financing Strategy’
+      •	The desired program has contractual close occurring in December 2025, with Construction Completion scheduled for December 2030
+      This exercise is aimed to using basic project finance knowledge and modelling skills, then using the outputs of the modelling to make recommendations on the Government’s options for funding and financing an infrastructure project. This is the type of work that financial and commercial advisory firms would undertake and/or contribute towards for Government clients. 
+
+1: Existing Assets
+    River Bridge:
+      •	Annual Average Daily Traffic (AADT): ~170,000 vehicles / day in both directions (2022)
+      •	Owner: Big City Department of Main Roads
+      •	Concession: none – Government owned
+2:  River Tunnel
+      •	AADT: ~100,000 vehicles / day in both directions (2022)
+      •	Owner: River Tunnel Company 
+      •	Concession: Build Own Operate Transfer (BOOT); revenue stream underwritten by River Bridge tolls – ends 30 June 2029
+Project Parameters:
+1:    Construction
+      •	Cost: $12 billion (AUD 2026)
+      •	Start: 1 January 2026
+      •	Finish: 31 December 2030
+      •	Construction profile: S-curve – 16%; 21%; 26%; 21%; 16%
+2:   Operations
+      •	EBITDA Margin: 80 per cent
+      Concession
+      •	Type: Build Own Operate Transfer (BOOT) PPP
+      •	Concession period: 1 January 2031 – 31 December 2060
+      Tolling
+      •	RiverCross: $7.00 each way (AUD 2026)
+      •	River Bridge: $4.00 each way (AUD 2026)
+      •	River Tunnel: $4.00 each way (AUD 2026)
+      •	Toll growth rate: CPI
+      Traffic Forecast – 2030
+      •	RiverCross: 70,000 AADT
+      •	River Bridge: 140,000 AADT
+      •	River Tunnel:  80,000 AADT
+      •	Traffic growth Rate: Population
+      •	The proximity of each river crossing, means that for a material number of motorists, the choice of which option to take will be guided more by price than travel time
+      Financing Parameters:
+3:   Debt
+      •	Debt Service Coverage Ratio (DSCR): Minimum 1.5x
+      •	Tail period: 3 years
+      •	Construction Margin: 250bps over BBSY
+      •	Operation Margin: 180bps over BBSY
+      •	Amortisation: Sculpted to maximise debt
+Macro Economic Parameters
+      •	CPI: 2.5 per cent
+      •	Construction Index: 4.0 per cent
+      •	BBSY: 3.5 per cent
+      •	Population Growth: 1.0 per cent
+Equity
+      •	Required Equity Internal Rate of Return (IRR): 13 per cent
+      •	Drawdown: After debt
+      •	Dividends: all paid out in full as earnt
+
+Task - Funding and Financing Strategy
+      •	The RiverCross Project Director has asked you to advise on a key aspect relevant to finalising the Final Business Case – the Funding & Financing Strategy, which is to be developed with reference to the debt capacity of the Project
+      •	Your advice should be considered from a whole of city perspective, especially the interaction of RiverCross with the Existing Assets (River Bridge and River Tunnel)
+      •	Prepare a Project Finance Model for the Project
+      •	Value the Project as at 31 December 2025
+      •	Provide your views on the how best to structure, fund and finance procurement and delivery of the project
+      •	Bring your financial model
+      •	Prepare a simple presentation on your findings
+      •	You will have 15 minutes to present your findings and recommendations
+Project Finance Model
+Model build:
+      •	Model in full years (rather than monthly for construction and quarterly for operations)
+      •	Debt rates are inclusive of fees
+      •	Ignore taxes, depreciation, debt service reserves, construction contingency, lifecycle capex, working capital, commitment fees and any other maters not explicitly considered in the template
+      •	Assume CFADS = EBITDA because of ignoring taxes and depreciation and lifecycle capex
+      •	Generate a simple financing schedule to determine equity requirements based on debt capacity
+      •	Generate a simple cash waterfall that includes project cash flows before financing; debt cash flows and equity cash flows
+      •	Use the cash waterfall to calculate Project and Equity IRR and gearing at maximum debt capacity
+Project Finance Model:
+Hints:
+      •	Enter all inputs and assumptions
+      •	Calculate time series values to allow for escalation and inflation
+      •	Calculate capex based on a typical S-curve and escalation
+      •	Calculate expected revenues, expenses and EBITDA
+      •	Assume CFADS = EBITDA because of ignoring taxes and depreciation and lifecycle capex
+      •	Generate a debt schedule and use it to size debt according to the DSCR
+      •	Generate a financing schedule to determine equity requirements based on debt capacity
+      •	Generate a cash waterfall that includes project cash flows before financing; debt cash flows and equity cash flows
+      •	Use the cash waterfall to calculate Project IRR and Equity IRR and gearing at maximum debt capacity
+
